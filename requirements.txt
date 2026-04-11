@@ -1,3 +1,4 @@
+ipykernel
 simpy
 numpy
 pandas
